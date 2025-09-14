@@ -47,4 +47,5 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mansis30/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/mansis30/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
