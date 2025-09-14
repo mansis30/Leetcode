@@ -42,6 +42,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/mansis30/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/mansis30/Leetcode/tree/master/0008-string-to-integer-atoi) |
 ## Math
 |  |
 | ------- |
