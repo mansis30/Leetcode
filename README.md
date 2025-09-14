@@ -35,3 +35,11 @@ Please note that the solutions in this repository reflect my approach at the tim
 
 ---
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/mansis30/Leetcode/tree/master/0006-zigzag-conversion) |
+<!---LeetCode Topics End-->
