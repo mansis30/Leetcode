@@ -48,4 +48,12 @@ Please note that the solutions in this repository reflect my approach at the tim
 | ------- |
 | [0007-reverse-integer](https://github.com/mansis30/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mansis30/Leetcode/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/mansis30/Leetcode/tree/master/0051-n-queens) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/mansis30/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
