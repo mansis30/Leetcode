@@ -43,6 +43,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | ------- |
 | [0006-zigzag-conversion](https://github.com/mansis30/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/mansis30/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
@@ -53,8 +54,18 @@ Please note that the solutions in this repository reflect my approach at the tim
 | ------- |
 | [0051-n-queens](https://github.com/mansis30/Leetcode/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/mansis30/Leetcode/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/mansis30/Leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
