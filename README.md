@@ -55,6 +55,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0051-n-queens](https://github.com/mansis30/Leetcode/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/mansis30/Leetcode/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mansis30/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -68,4 +69,8 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mansis30/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
