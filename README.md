@@ -58,6 +58,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0078-subsets](https://github.com/mansis30/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mansis30/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0120-triangle](https://github.com/mansis30/Leetcode/tree/master/0120-triangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -84,4 +85,8 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mansis30/Leetcode/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/mansis30/Leetcode/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
