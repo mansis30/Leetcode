@@ -58,6 +58,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0078-subsets](https://github.com/mansis30/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mansis30/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mansis30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/mansis30/Leetcode/tree/master/0120-triangle) |
 ## Backtracking
 |  |
@@ -89,4 +90,20 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0120-triangle](https://github.com/mansis30/Leetcode/tree/master/0120-triangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mansis30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mansis30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mansis30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mansis30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
