@@ -62,6 +62,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0118-pascals-triangle](https://github.com/mansis30/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mansis30/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/mansis30/Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mansis30/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0118-pascals-triangle](https://github.com/mansis30/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mansis30/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/mansis30/Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mansis30/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
 | ------- |
