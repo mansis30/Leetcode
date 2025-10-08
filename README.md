@@ -64,6 +64,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0120-triangle](https://github.com/mansis30/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mansis30/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mansis30/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mansis30/Leetcode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mansis30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -114,4 +117,12 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mansis30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
