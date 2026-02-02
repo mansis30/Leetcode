@@ -49,6 +49,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | ------- |
 | [0007-reverse-integer](https://github.com/mansis30/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mansis30/Leetcode/tree/master/0009-palindrome-number) |
+| [0149-max-points-on-a-line](https://github.com/mansis30/Leetcode/tree/master/0149-max-points-on-a-line) |
 ## Array
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0120-triangle](https://github.com/mansis30/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mansis30/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mansis30/Leetcode/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/mansis30/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mansis30/Leetcode/tree/master/0217-contains-duplicate) |
 ## Backtracking
@@ -124,6 +126,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 ## Hash Table
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/mansis30/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mansis30/Leetcode/tree/master/0217-contains-duplicate) |
 ## Counting
@@ -134,4 +137,8 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/mansis30/Leetcode/tree/master/0055-jump-game) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/mansis30/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
