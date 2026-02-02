@@ -53,6 +53,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/mansis30/Leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/mansis30/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mansis30/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mansis30/Leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/mansis30/Leetcode/tree/master/0078-subsets) |
@@ -98,6 +99,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mansis30/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/mansis30/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mansis30/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/mansis30/Leetcode/tree/master/0120-triangle) |
@@ -128,4 +130,8 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/mansis30/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
