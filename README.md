@@ -48,6 +48,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0020-valid-parentheses](https://github.com/mansis30/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mansis30/Leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mansis30/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/mansis30/Leetcode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
 ## Math
 |  |
