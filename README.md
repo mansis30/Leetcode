@@ -46,6 +46,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0012-integer-to-roman](https://github.com/mansis30/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mansis30/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mansis30/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mansis30/Leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mansis30/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
 ## Math
@@ -78,6 +79,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mansis30/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/mansis30/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/mansis30/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/mansis30/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
@@ -107,6 +109,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mansis30/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/mansis30/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/mansis30/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mansis30/Leetcode/tree/master/0119-pascals-triangle-ii) |
