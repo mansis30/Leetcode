@@ -51,6 +51,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0038-count-and-say](https://github.com/mansis30/Leetcode/tree/master/0038-count-and-say) |
 | [0065-valid-number](https://github.com/mansis30/Leetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/mansis30/Leetcode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/mansis30/Leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
 ## Math
 |  |
@@ -165,6 +166,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mansis30/Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/mansis30/Leetcode/tree/master/0071-simplify-path) |
 ## Simulation
 |  |
 | ------- |
