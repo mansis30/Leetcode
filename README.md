@@ -50,6 +50,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mansis30/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/mansis30/Leetcode/tree/master/0038-count-and-say) |
 | [0065-valid-number](https://github.com/mansis30/Leetcode/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/mansis30/Leetcode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
 ## Math
 |  |
@@ -65,6 +66,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0055-jump-game](https://github.com/mansis30/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mansis30/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mansis30/Leetcode/tree/master/0057-insert-interval) |
+| [0068-text-justification](https://github.com/mansis30/Leetcode/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/mansis30/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mansis30/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -163,4 +165,8 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mansis30/Leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/mansis30/Leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
