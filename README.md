@@ -52,6 +52,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0065-valid-number](https://github.com/mansis30/Leetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/mansis30/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/mansis30/Leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/mansis30/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
 ## Math
 |  |
@@ -116,6 +117,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | ------- |
 | [0022-generate-parentheses](https://github.com/mansis30/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/mansis30/Leetcode/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/mansis30/Leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/mansis30/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mansis30/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/mansis30/Leetcode/tree/master/0120-triangle) |
