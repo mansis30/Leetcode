@@ -56,6 +56,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0076-minimum-window-substring](https://github.com/mansis30/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/mansis30/Leetcode/tree/master/0087-scramble-string) |
+| [0093-restore-ip-addresses](https://github.com/mansis30/Leetcode/tree/master/0093-restore-ip-addresses) |
 ## Math
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0051-n-queens](https://github.com/mansis30/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/mansis30/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/mansis30/Leetcode/tree/master/0093-restore-ip-addresses) |
 ## Depth-First Search
 |  |
 | ------- |
