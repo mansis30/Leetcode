@@ -58,6 +58,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0087-scramble-string](https://github.com/mansis30/Leetcode/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/mansis30/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/mansis30/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/mansis30/Leetcode/tree/master/0139-word-break) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0120-triangle](https://github.com/mansis30/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mansis30/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mansis30/Leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/mansis30/Leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/mansis30/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mansis30/Leetcode/tree/master/0217-contains-duplicate) |
@@ -129,6 +131,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0119-pascals-triangle-ii](https://github.com/mansis30/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/mansis30/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mansis30/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/mansis30/Leetcode/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,6 +156,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mansis30/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mansis30/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/mansis30/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/mansis30/Leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/mansis30/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mansis30/Leetcode/tree/master/0217-contains-duplicate) |
@@ -182,4 +186,12 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/mansis30/Leetcode/tree/master/0068-text-justification) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mansis30/Leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mansis30/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
