@@ -58,6 +58,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0087-scramble-string](https://github.com/mansis30/Leetcode/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/mansis30/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/mansis30/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/mansis30/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/mansis30/Leetcode/tree/master/0139-word-break) |
 ## Math
 |  |
@@ -108,6 +109,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mansis30/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/mansis30/Leetcode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
