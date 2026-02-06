@@ -60,6 +60,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0115-distinct-subsequences](https://github.com/mansis30/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/mansis30/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/mansis30/Leetcode/tree/master/0139-word-break) |
+| [0168-excel-sheet-column-title](https://github.com/mansis30/Leetcode/tree/master/0168-excel-sheet-column-title) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0009-palindrome-number](https://github.com/mansis30/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/mansis30/Leetcode/tree/master/0012-integer-to-roman) |
 | [0149-max-points-on-a-line](https://github.com/mansis30/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0168-excel-sheet-column-title](https://github.com/mansis30/Leetcode/tree/master/0168-excel-sheet-column-title) |
 ## Array
 |  |
 | ------- |
