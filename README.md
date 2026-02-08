@@ -64,6 +64,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0171-excel-sheet-column-number](https://github.com/mansis30/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/mansis30/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/mansis30/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/mansis30/Leetcode/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
@@ -173,6 +174,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/mansis30/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/mansis30/Leetcode/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/mansis30/Leetcode/tree/master/0290-word-pattern) |
 ## Counting
 |  |
 | ------- |
