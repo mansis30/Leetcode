@@ -65,6 +65,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0205-isomorphic-strings](https://github.com/mansis30/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/mansis30/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/mansis30/Leetcode/tree/master/0290-word-pattern) |
+| [2000-reverse-prefix-of-word](https://github.com/mansis30/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Math
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mansis30/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/mansis30/Leetcode/tree/master/0125-valid-palindrome) |
+| [2000-reverse-prefix-of-word](https://github.com/mansis30/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
@@ -197,6 +199,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | ------- |
 | [0020-valid-parentheses](https://github.com/mansis30/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/mansis30/Leetcode/tree/master/0071-simplify-path) |
+| [2000-reverse-prefix-of-word](https://github.com/mansis30/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Simulation
 |  |
 | ------- |
