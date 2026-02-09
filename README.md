@@ -66,6 +66,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0257-binary-tree-paths](https://github.com/mansis30/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/mansis30/Leetcode/tree/master/0290-word-pattern) |
 | [1903-largest-odd-number-in-string](https://github.com/mansis30/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mansis30/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/mansis30/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Math
 |  |
@@ -179,10 +180,12 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0205-isomorphic-strings](https://github.com/mansis30/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/mansis30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/mansis30/Leetcode/tree/master/0290-word-pattern) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mansis30/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mansis30/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Greedy
 |  |
 | ------- |
