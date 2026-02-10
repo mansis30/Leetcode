@@ -70,6 +70,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0392-is-subsequence](https://github.com/mansis30/Leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mansis30/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/mansis30/Leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/mansis30/Leetcode/tree/master/0415-add-strings) |
 | [1859-sorting-the-sentence](https://github.com/mansis30/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/mansis30/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mansis30/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -84,6 +85,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0168-excel-sheet-column-title](https://github.com/mansis30/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/mansis30/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mansis30/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/mansis30/Leetcode/tree/master/0415-add-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/mansis30/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -226,6 +228,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/mansis30/Leetcode/tree/master/0068-text-justification) |
+| [0415-add-strings](https://github.com/mansis30/Leetcode/tree/master/0415-add-strings) |
 ## Trie
 |  |
 | ------- |
