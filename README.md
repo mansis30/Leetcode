@@ -71,6 +71,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mansis30/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/mansis30/Leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/mansis30/Leetcode/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/mansis30/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [1859-sorting-the-sentence](https://github.com/mansis30/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/mansis30/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mansis30/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
