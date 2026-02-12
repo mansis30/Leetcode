@@ -77,6 +77,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0541-reverse-string-ii](https://github.com/mansis30/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/mansis30/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mansis30/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/mansis30/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1859-sorting-the-sentence](https://github.com/mansis30/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/mansis30/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mansis30/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -115,6 +116,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0149-max-points-on-a-line](https://github.com/mansis30/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mansis30/Leetcode/tree/master/0217-contains-duplicate) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/mansis30/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Backtracking
 |  |
 | ------- |
@@ -205,6 +207,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0290-word-pattern](https://github.com/mansis30/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/mansis30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/mansis30/Leetcode/tree/master/0409-longest-palindrome) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/mansis30/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mansis30/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
