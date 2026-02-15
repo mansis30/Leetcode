@@ -88,6 +88,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0917-reverse-only-letters](https://github.com/mansis30/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/mansis30/Leetcode/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/mansis30/Leetcode/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/mansis30/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/mansis30/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mansis30/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1859-sorting-the-sentence](https://github.com/mansis30/Leetcode/tree/master/1859-sorting-the-sentence) |
@@ -134,6 +135,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0819-most-common-word](https://github.com/mansis30/Leetcode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/mansis30/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/mansis30/Leetcode/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/mansis30/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 ## Backtracking
 |  |
 | ------- |
