@@ -87,6 +87,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0844-backspace-string-compare](https://github.com/mansis30/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/mansis30/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/mansis30/Leetcode/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/mansis30/Leetcode/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/mansis30/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mansis30/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1859-sorting-the-sentence](https://github.com/mansis30/Leetcode/tree/master/1859-sorting-the-sentence) |
@@ -132,6 +133,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0806-number-of-lines-to-write-string](https://github.com/mansis30/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/mansis30/Leetcode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/mansis30/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0942-di-string-match](https://github.com/mansis30/Leetcode/tree/master/0942-di-string-match) |
 ## Backtracking
 |  |
 | ------- |
@@ -166,6 +168,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0844-backspace-string-compare](https://github.com/mansis30/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/mansis30/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/mansis30/Leetcode/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/mansis30/Leetcode/tree/master/0942-di-string-match) |
 | [2000-reverse-prefix-of-word](https://github.com/mansis30/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
@@ -245,6 +248,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0055-jump-game](https://github.com/mansis30/Leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/mansis30/Leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/mansis30/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0942-di-string-match](https://github.com/mansis30/Leetcode/tree/master/0942-di-string-match) |
 | [1903-largest-odd-number-in-string](https://github.com/mansis30/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Geometry
 |  |
