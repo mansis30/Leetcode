@@ -92,6 +92,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1021-remove-outermost-parentheses](https://github.com/mansis30/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mansis30/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mansis30/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/mansis30/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/mansis30/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1859-sorting-the-sentence](https://github.com/mansis30/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/mansis30/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -247,6 +248,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/mansis30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/mansis30/Leetcode/tree/master/0819-most-common-word) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/mansis30/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mansis30/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Greedy
 |  |
@@ -255,6 +257,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0409-longest-palindrome](https://github.com/mansis30/Leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/mansis30/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/mansis30/Leetcode/tree/master/0942-di-string-match) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/mansis30/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/mansis30/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Geometry
 |  |
