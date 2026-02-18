@@ -144,6 +144,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0217-contains-duplicate](https://github.com/mansis30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mansis30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mansis30/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mansis30/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/mansis30/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0806-number-of-lines-to-write-string](https://github.com/mansis30/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
@@ -201,6 +202,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0217-contains-duplicate](https://github.com/mansis30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mansis30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mansis30/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/mansis30/Leetcode/tree/master/1859-sorting-the-sentence) |
 ## Bit Manipulation
 |  |
@@ -262,6 +264,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0290-word-pattern](https://github.com/mansis30/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/mansis30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/mansis30/Leetcode/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mansis30/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mansis30/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/mansis30/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/mansis30/Leetcode/tree/master/0819-most-common-word) |
