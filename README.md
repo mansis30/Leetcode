@@ -182,6 +182,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mansis30/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/mansis30/Leetcode/tree/master/0125-valid-palindrome) |
+| [0295-find-median-from-data-stream](https://github.com/mansis30/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mansis30/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mansis30/Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/mansis30/Leetcode/tree/master/0541-reverse-string-ii) |
@@ -205,6 +206,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0220-contains-duplicate-iii](https://github.com/mansis30/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/mansis30/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/mansis30/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mansis30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mansis30/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/mansis30/Leetcode/tree/master/1859-sorting-the-sentence) |
@@ -348,6 +350,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/mansis30/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mansis30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bucket Sort
 |  |
@@ -357,4 +360,12 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/mansis30/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/mansis30/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/mansis30/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
