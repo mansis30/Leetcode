@@ -142,6 +142,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0149-max-points-on-a-line](https://github.com/mansis30/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mansis30/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/mansis30/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mansis30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mansis30/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -200,6 +201,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0147-insertion-sort-list](https://github.com/mansis30/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mansis30/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/mansis30/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mansis30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mansis30/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -260,6 +262,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/mansis30/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/mansis30/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/mansis30/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/mansis30/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/mansis30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -277,6 +280,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/mansis30/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/mansis30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/mansis30/Leetcode/tree/master/0819-most-common-word) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mansis30/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
