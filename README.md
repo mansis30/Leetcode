@@ -159,6 +159,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0905-sort-array-by-parity](https://github.com/mansis30/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/mansis30/Leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mansis30/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1051-height-checker](https://github.com/mansis30/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/mansis30/Leetcode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mansis30/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1408-string-matching-in-an-array](https://github.com/mansis30/Leetcode/tree/master/1408-string-matching-in-an-array) |
@@ -222,6 +223,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0506-relative-ranks](https://github.com/mansis30/Leetcode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/mansis30/Leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/mansis30/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/mansis30/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/mansis30/Leetcode/tree/master/1122-relative-sort-array) |
 | [1859-sorting-the-sentence](https://github.com/mansis30/Leetcode/tree/master/1859-sorting-the-sentence) |
 ## Bit Manipulation
@@ -391,5 +393,6 @@ Please note that the solutions in this repository reflect my approach at the tim
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/mansis30/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/mansis30/Leetcode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
