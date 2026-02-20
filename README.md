@@ -162,6 +162,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1051-height-checker](https://github.com/mansis30/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/mansis30/Leetcode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mansis30/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mansis30/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-string-matching-in-an-array](https://github.com/mansis30/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mansis30/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Backtracking
@@ -204,6 +205,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0925-long-pressed-name](https://github.com/mansis30/Leetcode/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/mansis30/Leetcode/tree/master/0942-di-string-match) |
 | [1332-remove-palindromic-subsequences](https://github.com/mansis30/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mansis30/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/mansis30/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
@@ -225,6 +227,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0905-sort-array-by-parity](https://github.com/mansis30/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/mansis30/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/mansis30/Leetcode/tree/master/1122-relative-sort-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mansis30/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1859-sorting-the-sentence](https://github.com/mansis30/Leetcode/tree/master/1859-sorting-the-sentence) |
 ## Bit Manipulation
 |  |
@@ -267,6 +270,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mansis30/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mansis30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mansis30/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Tree
 |  |
 | ------- |
