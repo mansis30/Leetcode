@@ -119,6 +119,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mansis30/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/mansis30/Leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/mansis30/Leetcode/tree/master/0504-base-7) |
+| [1030-matrix-cells-in-distance-order](https://github.com/mansis30/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mansis30/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/mansis30/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Array
@@ -160,6 +161,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0905-sort-array-by-parity](https://github.com/mansis30/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/mansis30/Leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mansis30/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1030-matrix-cells-in-distance-order](https://github.com/mansis30/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/mansis30/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/mansis30/Leetcode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mansis30/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -186,6 +188,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | ------- |
 | [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mansis30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1030-matrix-cells-in-distance-order](https://github.com/mansis30/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -227,6 +230,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0645-set-mismatch](https://github.com/mansis30/Leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mansis30/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/mansis30/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1030-matrix-cells-in-distance-order](https://github.com/mansis30/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/mansis30/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/mansis30/Leetcode/tree/master/1122-relative-sort-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mansis30/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -332,6 +336,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/mansis30/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [1030-matrix-cells-in-distance-order](https://github.com/mansis30/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 ## Sliding Window
 |  |
 | ------- |
