@@ -410,4 +410,8 @@ Please note that the solutions in this repository reflect my approach at the tim
 | ------- |
 | [1051-height-checker](https://github.com/mansis30/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/mansis30/Leetcode/tree/master/1122-relative-sort-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/mansis30/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
