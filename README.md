@@ -423,4 +423,5 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0197-rising-temperature](https://github.com/mansis30/Leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/mansis30/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/mansis30/Leetcode/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/mansis30/Leetcode/tree/master/0585-investments-in-2016) |
 <!---LeetCode Topics End-->
