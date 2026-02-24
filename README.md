@@ -425,4 +425,5 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0584-find-customer-referee](https://github.com/mansis30/Leetcode/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/mansis30/Leetcode/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/mansis30/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0596-classes-with-at-least-5-students](https://github.com/mansis30/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
