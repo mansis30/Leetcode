@@ -428,4 +428,5 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0596-classes-with-at-least-5-students](https://github.com/mansis30/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1164-product-price-at-a-given-date](https://github.com/mansis30/Leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/mansis30/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/mansis30/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
