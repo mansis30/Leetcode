@@ -433,6 +433,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0610-triangle-judgement](https://github.com/mansis30/Leetcode/tree/master/0610-triangle-judgement) |
 | [1164-product-price-at-a-given-date](https://github.com/mansis30/Leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/mansis30/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1280-students-and-examinations](https://github.com/mansis30/Leetcode/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/mansis30/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mansis30/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/mansis30/Leetcode/tree/master/1484-group-sold-products-by-the-date) |
