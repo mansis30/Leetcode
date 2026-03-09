@@ -164,6 +164,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1030-matrix-cells-in-distance-order](https://github.com/mansis30/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/mansis30/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/mansis30/Leetcode/tree/master/1122-relative-sort-array) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/mansis30/Leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mansis30/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mansis30/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mansis30/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -309,6 +310,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0748-shortest-completing-word](https://github.com/mansis30/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/mansis30/Leetcode/tree/master/0819-most-common-word) |
 | [1122-relative-sort-array](https://github.com/mansis30/Leetcode/tree/master/1122-relative-sort-array) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/mansis30/Leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mansis30/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/mansis30/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1370-increasing-decreasing-string](https://github.com/mansis30/Leetcode/tree/master/1370-increasing-decreasing-string) |
@@ -321,6 +323,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0229-majority-element-ii](https://github.com/mansis30/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/mansis30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/mansis30/Leetcode/tree/master/0819-most-common-word) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/mansis30/Leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mansis30/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/mansis30/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mansis30/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
