@@ -272,6 +272,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mansis30/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mansis30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
 | [1763-longest-nice-substring](https://github.com/mansis30/Leetcode/tree/master/1763-longest-nice-substring) |
@@ -399,10 +400,12 @@ Please note that the solutions in this repository reflect my approach at the tim
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mansis30/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/mansis30/Leetcode/tree/master/0147-insertion-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mansis30/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/mansis30/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mansis30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/mansis30/Leetcode/tree/master/0506-relative-ranks) |
@@ -460,4 +463,8 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mansis30/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/mansis30/Leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/mansis30/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mansis30/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
