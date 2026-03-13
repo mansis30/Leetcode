@@ -128,6 +128,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mansis30/Leetcode/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/mansis30/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/mansis30/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mansis30/Leetcode/tree/master/0056-merge-intervals) |
@@ -295,6 +296,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mansis30/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/mansis30/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mansis30/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mansis30/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
