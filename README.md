@@ -114,6 +114,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0007-reverse-integer](https://github.com/mansis30/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mansis30/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/mansis30/Leetcode/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/mansis30/Leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/mansis30/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/mansis30/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/mansis30/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -262,6 +263,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0022-generate-parentheses](https://github.com/mansis30/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mansis30/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/mansis30/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/mansis30/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/mansis30/Leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/mansis30/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/mansis30/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -393,6 +395,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mansis30/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/mansis30/Leetcode/tree/master/0139-word-break) |
 ## Queue
 |  |
