@@ -190,6 +190,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/mansis30/Leetcode/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/mansis30/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
@@ -280,6 +281,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mansis30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/mansis30/Leetcode/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/mansis30/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
@@ -293,6 +295,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mansis30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/mansis30/Leetcode/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/mansis30/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Hash Table
 |  |
@@ -467,4 +470,8 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mansis30/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/mansis30/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
