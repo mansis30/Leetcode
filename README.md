@@ -157,6 +157,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0442-find-all-duplicates-in-an-array](https://github.com/mansis30/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/mansis30/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/mansis30/Leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/mansis30/Leetcode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mansis30/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/mansis30/Leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mansis30/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -241,6 +242,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0442-find-all-duplicates-in-an-array](https://github.com/mansis30/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/mansis30/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/mansis30/Leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/mansis30/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/mansis30/Leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mansis30/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/mansis30/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -360,6 +362,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0055-jump-game](https://github.com/mansis30/Leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/mansis30/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/mansis30/Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/mansis30/Leetcode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/mansis30/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/mansis30/Leetcode/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mansis30/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -441,6 +444,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/mansis30/Leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/mansis30/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/mansis30/Leetcode/tree/master/1122-relative-sort-array) |
 ## Database
