@@ -181,6 +181,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1408-string-matching-in-an-array](https://github.com/mansis30/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mansis30/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/mansis30/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/mansis30/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mansis30/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/mansis30/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Backtracking
@@ -261,6 +262,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mansis30/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mansis30/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mansis30/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/mansis30/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1859-sorting-the-sentence](https://github.com/mansis30/Leetcode/tree/master/1859-sorting-the-sentence) |
 ## Bit Manipulation
 |  |
@@ -349,6 +351,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1370-increasing-decreasing-string](https://github.com/mansis30/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mansis30/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/mansis30/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/mansis30/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/mansis30/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1763-longest-nice-substring](https://github.com/mansis30/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mansis30/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
