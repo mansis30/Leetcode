@@ -179,6 +179,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mansis30/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mansis30/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-string-matching-in-an-array](https://github.com/mansis30/Leetcode/tree/master/1408-string-matching-in-an-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mansis30/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/mansis30/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mansis30/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/mansis30/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -259,6 +260,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mansis30/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mansis30/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mansis30/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mansis30/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1859-sorting-the-sentence](https://github.com/mansis30/Leetcode/tree/master/1859-sorting-the-sentence) |
 ## Bit Manipulation
 |  |
@@ -345,6 +347,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1189-maximum-number-of-balloons](https://github.com/mansis30/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/mansis30/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1370-increasing-decreasing-string](https://github.com/mansis30/Leetcode/tree/master/1370-increasing-decreasing-string) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mansis30/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/mansis30/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/mansis30/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1763-longest-nice-substring](https://github.com/mansis30/Leetcode/tree/master/1763-longest-nice-substring) |
