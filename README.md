@@ -152,6 +152,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0217-contains-duplicate](https://github.com/mansis30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/mansis30/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/mansis30/Leetcode/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/mansis30/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mansis30/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mansis30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -397,6 +398,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mansis30/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/mansis30/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0220-contains-duplicate-iii](https://github.com/mansis30/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/mansis30/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1763-longest-nice-substring](https://github.com/mansis30/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Stack
 |  |
@@ -431,6 +433,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mansis30/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mansis30/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/mansis30/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/mansis30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
@@ -446,6 +449,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mansis30/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/mansis30/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/mansis30/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mansis30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/mansis30/Leetcode/tree/master/0506-relative-ranks) |
@@ -519,4 +523,8 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mansis30/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mansis30/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
