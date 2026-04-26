@@ -162,6 +162,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0506-relative-ranks](https://github.com/mansis30/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/mansis30/Leetcode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mansis30/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0622-design-circular-queue](https://github.com/mansis30/Leetcode/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/mansis30/Leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mansis30/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/mansis30/Leetcode/tree/master/0748-shortest-completing-word) |
@@ -444,6 +445,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0239-sliding-window-maximum](https://github.com/mansis30/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/mansis30/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/mansis30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/mansis30/Leetcode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/mansis30/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mansis30/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mansis30/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -457,6 +459,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0023-merge-k-sorted-lists](https://github.com/mansis30/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/mansis30/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/mansis30/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0622-design-circular-queue](https://github.com/mansis30/Leetcode/tree/master/0622-design-circular-queue) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -481,6 +484,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0232-implement-queue-using-stacks](https://github.com/mansis30/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/mansis30/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0341-flatten-nested-list-iterator](https://github.com/mansis30/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0622-design-circular-queue](https://github.com/mansis30/Leetcode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/mansis30/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
