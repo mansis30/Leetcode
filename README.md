@@ -175,6 +175,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0922-sort-array-by-parity-ii](https://github.com/mansis30/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/mansis30/Leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mansis30/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/mansis30/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1030-matrix-cells-in-distance-order](https://github.com/mansis30/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/mansis30/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/mansis30/Leetcode/tree/master/1122-relative-sort-array) |
@@ -263,6 +264,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mansis30/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/mansis30/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/mansis30/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/mansis30/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1030-matrix-cells-in-distance-order](https://github.com/mansis30/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/mansis30/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/mansis30/Leetcode/tree/master/1122-relative-sort-array) |
@@ -430,6 +432,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0068-text-justification](https://github.com/mansis30/Leetcode/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/mansis30/Leetcode/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/mansis30/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/mansis30/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mansis30/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mansis30/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Trie
@@ -453,6 +456,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0641-design-circular-deque](https://github.com/mansis30/Leetcode/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mansis30/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/mansis30/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/mansis30/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mansis30/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mansis30/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## String Matching
