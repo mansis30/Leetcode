@@ -190,6 +190,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1512-number-of-good-pairs](https://github.com/mansis30/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mansis30/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mansis30/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1670-design-front-middle-back-queue](https://github.com/mansis30/Leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mansis30/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1748-sum-of-unique-elements](https://github.com/mansis30/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mansis30/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -457,6 +458,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0918-maximum-sum-circular-subarray](https://github.com/mansis30/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/mansis30/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mansis30/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1670-design-front-middle-back-queue](https://github.com/mansis30/Leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mansis30/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mansis30/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## String Matching
@@ -471,6 +473,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0147-insertion-sort-list](https://github.com/mansis30/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0622-design-circular-queue](https://github.com/mansis30/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/mansis30/Leetcode/tree/master/0641-design-circular-deque) |
+| [1670-design-front-middle-back-queue](https://github.com/mansis30/Leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -498,11 +501,13 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0622-design-circular-queue](https://github.com/mansis30/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/mansis30/Leetcode/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/mansis30/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/mansis30/Leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/mansis30/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0933-number-of-recent-calls](https://github.com/mansis30/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/mansis30/Leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Counting Sort
 |  |
 | ------- |
@@ -563,4 +568,8 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/mansis30/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/mansis30/Leetcode/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
