@@ -286,6 +286,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | ------- |
 | [0078-subsets](https://github.com/mansis30/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mansis30/Leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/mansis30/Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mansis30/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/mansis30/Leetcode/tree/master/0645-set-mismatch) |
@@ -314,6 +315,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0023-merge-k-sorted-lists](https://github.com/mansis30/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mansis30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/mansis30/Leetcode/tree/master/0190-reverse-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mansis30/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1763-longest-nice-substring](https://github.com/mansis30/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Tree
