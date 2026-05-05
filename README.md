@@ -119,6 +119,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0149-max-points-on-a-line](https://github.com/mansis30/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/mansis30/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/mansis30/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/mansis30/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mansis30/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/mansis30/Leetcode/tree/master/0415-add-strings) |
@@ -288,6 +289,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0078-subsets](https://github.com/mansis30/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mansis30/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/mansis30/Leetcode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/mansis30/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mansis30/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/mansis30/Leetcode/tree/master/0645-set-mismatch) |
@@ -598,4 +600,8 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/mansis30/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/mansis30/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
