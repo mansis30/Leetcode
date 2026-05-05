@@ -114,6 +114,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0007-reverse-integer](https://github.com/mansis30/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mansis30/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/mansis30/Leetcode/tree/master/0012-integer-to-roman) |
+| [0069-sqrtx](https://github.com/mansis30/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mansis30/Leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/mansis30/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/mansis30/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -328,6 +329,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/mansis30/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mansis30/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mansis30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
