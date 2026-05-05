@@ -120,6 +120,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0168-excel-sheet-column-title](https://github.com/mansis30/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/mansis30/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/mansis30/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/mansis30/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mansis30/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/mansis30/Leetcode/tree/master/0415-add-strings) |
@@ -445,6 +446,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/mansis30/Leetcode/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/mansis30/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/mansis30/Leetcode/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/mansis30/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mansis30/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -599,6 +601,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mansis30/Leetcode/tree/master/0258-add-digits) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/mansis30/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Recursion
 |  |
