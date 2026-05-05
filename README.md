@@ -336,6 +336,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mansis30/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mansis30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/mansis30/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/mansis30/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mansis30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mansis30/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -607,4 +608,8 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mansis30/Leetcode/tree/master/0231-power-of-two) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/mansis30/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
