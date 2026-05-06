@@ -124,6 +124,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/mansis30/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mansis30/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/mansis30/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mansis30/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/mansis30/Leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/mansis30/Leetcode/tree/master/0504-base-7) |
@@ -343,6 +344,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/mansis30/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/mansis30/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/mansis30/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mansis30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mansis30/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mansis30/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
