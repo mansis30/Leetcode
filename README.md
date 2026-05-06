@@ -293,6 +293,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0190-reverse-bits](https://github.com/mansis30/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/mansis30/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/mansis30/Leetcode/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mansis30/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/mansis30/Leetcode/tree/master/0645-set-mismatch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mansis30/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -312,6 +313,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0120-triangle](https://github.com/mansis30/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mansis30/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/mansis30/Leetcode/tree/master/0139-word-break) |
+| [0338-counting-bits](https://github.com/mansis30/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/mansis30/Leetcode/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mansis30/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
