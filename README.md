@@ -168,6 +168,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0455-assign-cookies](https://github.com/mansis30/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/mansis30/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/mansis30/Leetcode/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/mansis30/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mansis30/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0622-design-circular-queue](https://github.com/mansis30/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/mansis30/Leetcode/tree/master/0641-design-circular-deque) |
@@ -376,6 +377,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0387-first-unique-character-in-a-string](https://github.com/mansis30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/mansis30/Leetcode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mansis30/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0575-distribute-candies](https://github.com/mansis30/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mansis30/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/mansis30/Leetcode/tree/master/0645-set-mismatch) |
 | [0748-shortest-completing-word](https://github.com/mansis30/Leetcode/tree/master/0748-shortest-completing-word) |
