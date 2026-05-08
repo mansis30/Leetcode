@@ -175,6 +175,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0643-maximum-average-subarray-i](https://github.com/mansis30/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/mansis30/Leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/mansis30/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0724-find-pivot-index](https://github.com/mansis30/Leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mansis30/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/mansis30/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0806-number-of-lines-to-write-string](https://github.com/mansis30/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
@@ -629,4 +630,8 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/mansis30/Leetcode/tree/master/0278-first-bad-version) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/mansis30/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
