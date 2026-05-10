@@ -128,6 +128,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mansis30/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/mansis30/Leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/mansis30/Leetcode/tree/master/0504-base-7) |
+| [0908-smallest-range-i](https://github.com/mansis30/Leetcode/tree/master/0908-smallest-range-i) |
 | [1030-matrix-cells-in-distance-order](https://github.com/mansis30/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mansis30/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1512-number-of-good-pairs](https://github.com/mansis30/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -183,6 +184,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0819-most-common-word](https://github.com/mansis30/Leetcode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/mansis30/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/mansis30/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/mansis30/Leetcode/tree/master/0908-smallest-range-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mansis30/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/mansis30/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/mansis30/Leetcode/tree/master/0941-valid-mountain-array) |
