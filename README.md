@@ -587,6 +587,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0610-triangle-judgement](https://github.com/mansis30/Leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/mansis30/Leetcode/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/mansis30/Leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/mansis30/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1164-product-price-at-a-given-date](https://github.com/mansis30/Leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/mansis30/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/mansis30/Leetcode/tree/master/1211-queries-quality-and-percentage) |
