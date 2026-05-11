@@ -131,6 +131,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0908-smallest-range-i](https://github.com/mansis30/Leetcode/tree/master/0908-smallest-range-i) |
 | [1030-matrix-cells-in-distance-order](https://github.com/mansis30/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mansis30/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1103-distribute-candies-to-people](https://github.com/mansis30/Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1512-number-of-good-pairs](https://github.com/mansis30/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/mansis30/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/mansis30/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
@@ -472,6 +473,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0415-add-strings](https://github.com/mansis30/Leetcode/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/mansis30/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mansis30/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1103-distribute-candies-to-people](https://github.com/mansis30/Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mansis30/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mansis30/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Trie
