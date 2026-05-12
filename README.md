@@ -131,6 +131,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0415-add-strings](https://github.com/mansis30/Leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/mansis30/Leetcode/tree/master/0504-base-7) |
 | [0908-smallest-range-i](https://github.com/mansis30/Leetcode/tree/master/0908-smallest-range-i) |
+| [0989-add-to-array-form-of-integer](https://github.com/mansis30/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1030-matrix-cells-in-distance-order](https://github.com/mansis30/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mansis30/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/mansis30/Leetcode/tree/master/1103-distribute-candies-to-people) |
@@ -196,6 +197,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0942-di-string-match](https://github.com/mansis30/Leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mansis30/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mansis30/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0989-add-to-array-form-of-integer](https://github.com/mansis30/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mansis30/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/mansis30/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/mansis30/Leetcode/tree/master/1051-height-checker) |
