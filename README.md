@@ -88,6 +88,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0844-backspace-string-compare](https://github.com/mansis30/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/mansis30/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/mansis30/Leetcode/tree/master/0925-long-pressed-name) |
+| [0929-unique-email-addresses](https://github.com/mansis30/Leetcode/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/mansis30/Leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mansis30/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/mansis30/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -190,6 +191,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0908-smallest-range-i](https://github.com/mansis30/Leetcode/tree/master/0908-smallest-range-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mansis30/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/mansis30/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0929-unique-email-addresses](https://github.com/mansis30/Leetcode/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/mansis30/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/mansis30/Leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mansis30/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -395,6 +397,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0697-degree-of-an-array](https://github.com/mansis30/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/mansis30/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/mansis30/Leetcode/tree/master/0819-most-common-word) |
+| [0929-unique-email-addresses](https://github.com/mansis30/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1122-relative-sort-array](https://github.com/mansis30/Leetcode/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/mansis30/Leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mansis30/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
