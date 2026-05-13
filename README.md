@@ -44,6 +44,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0006-zigzag-conversion](https://github.com/mansis30/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/mansis30/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/mansis30/Leetcode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/mansis30/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mansis30/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mansis30/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mansis30/Leetcode/tree/master/0022-generate-parentheses) |
@@ -143,6 +144,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mansis30/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/mansis30/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0051-n-queens](https://github.com/mansis30/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/mansis30/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mansis30/Leetcode/tree/master/0056-merge-intervals) |
@@ -488,6 +490,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mansis30/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/mansis30/Leetcode/tree/master/0139-word-break) |
 ## Memoization
 |  |
