@@ -164,6 +164,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0139-word-break](https://github.com/mansis30/Leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/mansis30/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mansis30/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mansis30/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mansis30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/mansis30/Leetcode/tree/master/0220-contains-duplicate-iii) |
@@ -364,6 +365,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mansis30/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mansis30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mansis30/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mansis30/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/mansis30/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/mansis30/Leetcode/tree/master/0349-intersection-of-two-arrays) |
