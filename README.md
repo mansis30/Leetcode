@@ -209,6 +209,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1122-relative-sort-array](https://github.com/mansis30/Leetcode/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/mansis30/Leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mansis30/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1306-jump-game-iii](https://github.com/mansis30/Leetcode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/mansis30/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mansis30/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mansis30/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -242,6 +243,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0112-path-sum](https://github.com/mansis30/Leetcode/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/mansis30/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/mansis30/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [1306-jump-game-iii](https://github.com/mansis30/Leetcode/tree/master/1306-jump-game-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -621,6 +623,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/mansis30/Leetcode/tree/master/0112-path-sum) |
+| [1306-jump-game-iii](https://github.com/mansis30/Leetcode/tree/master/1306-jump-game-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
