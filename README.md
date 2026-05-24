@@ -213,6 +213,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1306-jump-game-iii](https://github.com/mansis30/Leetcode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/mansis30/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mansis30/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1340-jump-game-v](https://github.com/mansis30/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/mansis30/Leetcode/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mansis30/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mansis30/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -309,6 +310,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1122-relative-sort-array](https://github.com/mansis30/Leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/mansis30/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mansis30/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1340-jump-game-v](https://github.com/mansis30/Leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mansis30/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mansis30/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mansis30/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -347,6 +349,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0338-counting-bits](https://github.com/mansis30/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/mansis30/Leetcode/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mansis30/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1340-jump-game-v](https://github.com/mansis30/Leetcode/tree/master/1340-jump-game-v) |
 ## Divide and Conquer
 |  |
 | ------- |
