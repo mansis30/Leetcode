@@ -171,6 +171,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0217-contains-duplicate](https://github.com/mansis30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/mansis30/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/mansis30/Leetcode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/mansis30/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/mansis30/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mansis30/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -675,6 +676,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/mansis30/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/mansis30/Leetcode/tree/master/0724-find-pivot-index) |
 | [1871-jump-game-vii](https://github.com/mansis30/Leetcode/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
