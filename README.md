@@ -182,6 +182,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0442-find-all-duplicates-in-an-array](https://github.com/mansis30/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/mansis30/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/mansis30/Leetcode/tree/master/0506-relative-ranks) |
+| [0517-super-washing-machines](https://github.com/mansis30/Leetcode/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/mansis30/Leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/mansis30/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mansis30/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -460,6 +461,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0055-jump-game](https://github.com/mansis30/Leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/mansis30/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/mansis30/Leetcode/tree/master/0455-assign-cookies) |
+| [0517-super-washing-machines](https://github.com/mansis30/Leetcode/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/mansis30/Leetcode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/mansis30/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/mansis30/Leetcode/tree/master/0942-di-string-match) |
