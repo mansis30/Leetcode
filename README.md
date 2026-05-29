@@ -144,6 +144,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1154-day-of-the-year](https://github.com/mansis30/Leetcode/tree/master/1154-day-of-the-year) |
 | [1512-number-of-good-pairs](https://github.com/mansis30/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/mansis30/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mansis30/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/mansis30/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Array
 |  |
@@ -235,6 +236,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [2762-continuous-subarrays](https://github.com/mansis30/Leetcode/tree/master/2762-continuous-subarrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mansis30/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/mansis30/Leetcode/tree/master/3093-longest-common-suffix-queries) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mansis30/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/mansis30/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/mansis30/Leetcode/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Backtracking
