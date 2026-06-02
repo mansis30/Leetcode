@@ -242,6 +242,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [3161-block-placement-queries](https://github.com/mansis30/Leetcode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mansis30/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/mansis30/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mansis30/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/mansis30/Leetcode/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Backtracking
 |  |
@@ -295,6 +296,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1332-remove-palindromic-subsequences](https://github.com/mansis30/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mansis30/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/mansis30/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mansis30/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -332,6 +334,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1859-sorting-the-sentence](https://github.com/mansis30/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2126-destroying-asteroids](https://github.com/mansis30/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mansis30/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mansis30/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -399,6 +402,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mansis30/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mansis30/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3161-block-placement-queries](https://github.com/mansis30/Leetcode/tree/master/3161-block-placement-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mansis30/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -482,6 +486,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1903-largest-odd-number-in-string](https://github.com/mansis30/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/mansis30/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mansis30/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mansis30/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Geometry
 |  |
 | ------- |
