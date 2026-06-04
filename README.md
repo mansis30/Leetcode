@@ -135,6 +135,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0367-valid-perfect-square](https://github.com/mansis30/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mansis30/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/mansis30/Leetcode/tree/master/0415-add-strings) |
+| [0447-number-of-boomerangs](https://github.com/mansis30/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0504-base-7](https://github.com/mansis30/Leetcode/tree/master/0504-base-7) |
 | [0908-smallest-range-i](https://github.com/mansis30/Leetcode/tree/master/0908-smallest-range-i) |
 | [0989-add-to-array-form-of-integer](https://github.com/mansis30/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -184,6 +185,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mansis30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/mansis30/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mansis30/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/mansis30/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0455-assign-cookies](https://github.com/mansis30/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/mansis30/Leetcode/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/mansis30/Leetcode/tree/master/0517-super-washing-machines) |
@@ -437,6 +439,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0387-first-unique-character-in-a-string](https://github.com/mansis30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/mansis30/Leetcode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mansis30/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/mansis30/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0575-distribute-candies](https://github.com/mansis30/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mansis30/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/mansis30/Leetcode/tree/master/0645-set-mismatch) |
