@@ -239,6 +239,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [2073-time-needed-to-buy-tickets](https://github.com/mansis30/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2126-destroying-asteroids](https://github.com/mansis30/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mansis30/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mansis30/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/mansis30/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2762-continuous-subarrays](https://github.com/mansis30/Leetcode/tree/master/2762-continuous-subarrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mansis30/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -394,6 +395,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0112-path-sum](https://github.com/mansis30/Leetcode/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/mansis30/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/mansis30/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mansis30/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -418,6 +420,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mansis30/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/mansis30/Leetcode/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/mansis30/Leetcode/tree/master/0257-binary-tree-paths) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mansis30/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
 | ------- |
@@ -461,6 +464,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1748-sum-of-unique-elements](https://github.com/mansis30/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1763-longest-nice-substring](https://github.com/mansis30/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mansis30/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mansis30/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mansis30/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mansis30/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mansis30/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
