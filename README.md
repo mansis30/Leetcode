@@ -196,6 +196,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0641-design-circular-deque](https://github.com/mansis30/Leetcode/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/mansis30/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/mansis30/Leetcode/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/mansis30/Leetcode/tree/master/0661-image-smoother) |
 | [0697-degree-of-an-array](https://github.com/mansis30/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mansis30/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/mansis30/Leetcode/tree/master/0724-find-pivot-index) |
@@ -274,6 +275,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0059-spiral-matrix-ii](https://github.com/mansis30/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mansis30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0661-image-smoother](https://github.com/mansis30/Leetcode/tree/master/0661-image-smoother) |
 | [1030-matrix-cells-in-distance-order](https://github.com/mansis30/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mansis30/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Two Pointers
