@@ -196,6 +196,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0641-design-circular-deque](https://github.com/mansis30/Leetcode/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/mansis30/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/mansis30/Leetcode/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mansis30/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0661-image-smoother](https://github.com/mansis30/Leetcode/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mansis30/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/mansis30/Leetcode/tree/master/0697-degree-of-an-array) |
@@ -328,6 +329,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0506-relative-ranks](https://github.com/mansis30/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/mansis30/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/mansis30/Leetcode/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mansis30/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mansis30/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/mansis30/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/mansis30/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -380,6 +382,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0139-word-break](https://github.com/mansis30/Leetcode/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/mansis30/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/mansis30/Leetcode/tree/master/0392-is-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mansis30/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mansis30/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1340-jump-game-v](https://github.com/mansis30/Leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/mansis30/Leetcode/tree/master/1871-jump-game-vii) |
@@ -498,6 +501,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0455-assign-cookies](https://github.com/mansis30/Leetcode/tree/master/0455-assign-cookies) |
 | [0517-super-washing-machines](https://github.com/mansis30/Leetcode/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/mansis30/Leetcode/tree/master/0561-array-partition) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mansis30/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/mansis30/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/mansis30/Leetcode/tree/master/0942-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mansis30/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
