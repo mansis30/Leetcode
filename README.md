@@ -197,6 +197,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0643-maximum-average-subarray-i](https://github.com/mansis30/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/mansis30/Leetcode/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/mansis30/Leetcode/tree/master/0661-image-smoother) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/mansis30/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/mansis30/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mansis30/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/mansis30/Leetcode/tree/master/0724-find-pivot-index) |
