@@ -181,6 +181,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0238-product-of-array-except-self](https://github.com/mansis30/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/mansis30/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/mansis30/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/mansis30/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mansis30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/mansis30/Leetcode/tree/master/0414-third-maximum-number) |
@@ -627,6 +628,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0225-implement-stack-using-queues](https://github.com/mansis30/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mansis30/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/mansis30/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/mansis30/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/mansis30/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/mansis30/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/mansis30/Leetcode/tree/master/0641-design-circular-deque) |
@@ -729,6 +731,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mansis30/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/mansis30/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/mansis30/Leetcode/tree/master/0724-find-pivot-index) |
 | [1871-jump-game-vii](https://github.com/mansis30/Leetcode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/mansis30/Leetcode/tree/master/2574-left-and-right-sum-differences) |
