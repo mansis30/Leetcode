@@ -188,6 +188,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0442-find-all-duplicates-in-an-array](https://github.com/mansis30/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/mansis30/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0455-assign-cookies](https://github.com/mansis30/Leetcode/tree/master/0455-assign-cookies) |
+| [0495-teemo-attacking](https://github.com/mansis30/Leetcode/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/mansis30/Leetcode/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/mansis30/Leetcode/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/mansis30/Leetcode/tree/master/0561-array-partition) |
@@ -551,6 +552,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0068-text-justification](https://github.com/mansis30/Leetcode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/mansis30/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/mansis30/Leetcode/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/mansis30/Leetcode/tree/master/0495-teemo-attacking) |
 | [0844-backspace-string-compare](https://github.com/mansis30/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mansis30/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1103-distribute-candies-to-people](https://github.com/mansis30/Leetcode/tree/master/1103-distribute-candies-to-people) |
