@@ -146,6 +146,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1512-number-of-good-pairs](https://github.com/mansis30/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/mansis30/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mansis30/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mansis30/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/mansis30/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mansis30/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Array
@@ -275,6 +276,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0257-binary-tree-paths](https://github.com/mansis30/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/mansis30/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [1306-jump-game-iii](https://github.com/mansis30/Leetcode/tree/master/1306-jump-game-iii) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mansis30/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Matrix
 |  |
 | ------- |
@@ -407,6 +409,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0257-binary-tree-paths](https://github.com/mansis30/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/mansis30/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mansis30/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mansis30/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search Tree
 |  |
 | ------- |
