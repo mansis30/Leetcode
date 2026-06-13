@@ -116,6 +116,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [3093-longest-common-suffix-queries](https://github.com/mansis30/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mansis30/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mansis30/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3838-weighted-word-mapping](https://github.com/mansis30/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -258,6 +259,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mansis30/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mansis30/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/mansis30/Leetcode/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
+| [3838-weighted-word-mapping](https://github.com/mansis30/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
 | ------- |
@@ -564,6 +566,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mansis30/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mansis30/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mansis30/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/mansis30/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
