@@ -245,6 +245,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mansis30/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1670-design-front-middle-back-queue](https://github.com/mansis30/Leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mansis30/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1732-find-the-highest-altitude](https://github.com/mansis30/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/mansis30/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mansis30/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2126-destroying-asteroids](https://github.com/mansis30/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -746,6 +747,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0238-product-of-array-except-self](https://github.com/mansis30/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/mansis30/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/mansis30/Leetcode/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/mansis30/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/mansis30/Leetcode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/mansis30/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Indexed Tree
