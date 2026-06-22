@@ -1,9 +1,4 @@
 class Solution:
     def maxNumberOfBalloons(self, text: str) -> int:
-        b = text.count('b')
-        a = text.count('a')
-        l = text.count('l')//2
-        o = text.count('o')//2
-        n = text.count('n')
-        return min(b,a,l,o,n)
-        
+        f = Counter(text)
+        return min(f["b"], f["a"], f["l"] >> 1, f["o"] >> 1, f["n"])
