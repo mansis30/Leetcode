@@ -239,6 +239,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1340-jump-game-v](https://github.com/mansis30/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/mansis30/Leetcode/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mansis30/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mansis30/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mansis30/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-string-matching-in-an-array](https://github.com/mansis30/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mansis30/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -358,6 +359,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mansis30/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1340-jump-game-v](https://github.com/mansis30/Leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mansis30/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mansis30/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mansis30/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mansis30/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mansis30/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -483,6 +485,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1189-maximum-number-of-balloons](https://github.com/mansis30/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/mansis30/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/mansis30/Leetcode/tree/master/1345-jump-game-iv) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mansis30/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/mansis30/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mansis30/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/mansis30/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -666,6 +669,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0561-array-partition](https://github.com/mansis30/Leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/mansis30/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/mansis30/Leetcode/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mansis30/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Database
 |  |
 | ------- |
