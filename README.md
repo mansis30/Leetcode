@@ -265,6 +265,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/mansis30/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mansis30/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mansis30/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/mansis30/Leetcode/tree/master/3731-find-missing-elements) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/mansis30/Leetcode/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3838-weighted-word-mapping](https://github.com/mansis30/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
@@ -368,6 +369,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mansis30/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mansis30/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mansis30/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/mansis30/Leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -497,6 +499,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mansis30/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mansis30/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mansis30/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3731-find-missing-elements](https://github.com/mansis30/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
