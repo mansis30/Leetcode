@@ -258,6 +258,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [2196-create-binary-tree-from-descriptions](https://github.com/mansis30/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/mansis30/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2762-continuous-subarrays](https://github.com/mansis30/Leetcode/tree/master/2762-continuous-subarrays) |
+| [2974-minimum-number-game](https://github.com/mansis30/Leetcode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mansis30/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mansis30/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/mansis30/Leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -368,6 +369,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1859-sorting-the-sentence](https://github.com/mansis30/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2126-destroying-asteroids](https://github.com/mansis30/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mansis30/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2974-minimum-number-game](https://github.com/mansis30/Leetcode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mansis30/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mansis30/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mansis30/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -585,6 +587,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mansis30/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mansis30/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mansis30/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2974-minimum-number-game](https://github.com/mansis30/Leetcode/tree/master/2974-minimum-number-game) |
 | [3838-weighted-word-mapping](https://github.com/mansis30/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
@@ -642,6 +645,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0506-relative-ranks](https://github.com/mansis30/Leetcode/tree/master/0506-relative-ranks) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mansis30/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2762-continuous-subarrays](https://github.com/mansis30/Leetcode/tree/master/2762-continuous-subarrays) |
+| [2974-minimum-number-game](https://github.com/mansis30/Leetcode/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
