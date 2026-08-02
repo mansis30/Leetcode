@@ -258,6 +258,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [2196-create-binary-tree-from-descriptions](https://github.com/mansis30/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/mansis30/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2762-continuous-subarrays](https://github.com/mansis30/Leetcode/tree/master/2762-continuous-subarrays) |
+| [2784-check-if-array-is-good](https://github.com/mansis30/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/mansis30/Leetcode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mansis30/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mansis30/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -369,6 +370,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1859-sorting-the-sentence](https://github.com/mansis30/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2126-destroying-asteroids](https://github.com/mansis30/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mansis30/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2784-check-if-array-is-good](https://github.com/mansis30/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/mansis30/Leetcode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mansis30/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mansis30/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -500,6 +502,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1763-longest-nice-substring](https://github.com/mansis30/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mansis30/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mansis30/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2784-check-if-array-is-good](https://github.com/mansis30/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mansis30/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mansis30/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mansis30/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
