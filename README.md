@@ -255,6 +255,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mansis30/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mansis30/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mansis30/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/mansis30/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/mansis30/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mansis30/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mansis30/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -375,6 +376,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1859-sorting-the-sentence](https://github.com/mansis30/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mansis30/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mansis30/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/mansis30/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/mansis30/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mansis30/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/mansis30/Leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
@@ -511,6 +513,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1748-sum-of-unique-elements](https://github.com/mansis30/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1763-longest-nice-substring](https://github.com/mansis30/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mansis30/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2094-finding-3-digit-even-numbers](https://github.com/mansis30/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mansis30/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mansis30/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2784-check-if-array-is-good](https://github.com/mansis30/Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -776,6 +779,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0231-power-of-two](https://github.com/mansis30/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mansis30/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mansis30/Leetcode/tree/master/0342-power-of-four) |
+| [2094-finding-3-digit-even-numbers](https://github.com/mansis30/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Interactive
 |  |
 | ------- |
@@ -800,5 +804,6 @@ Please note that the solutions in this repository reflect my approach at the tim
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/mansis30/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mansis30/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
