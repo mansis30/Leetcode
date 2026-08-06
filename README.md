@@ -151,6 +151,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1903-largest-odd-number-in-string](https://github.com/mansis30/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2578-split-with-minimum-sum](https://github.com/mansis30/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mansis30/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/mansis30/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mansis30/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/mansis30/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mansis30/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -812,5 +813,6 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/mansis30/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/mansis30/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mansis30/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
