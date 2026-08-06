@@ -149,6 +149,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1344-angle-between-hands-of-a-clock](https://github.com/mansis30/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/mansis30/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/mansis30/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2578-split-with-minimum-sum](https://github.com/mansis30/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mansis30/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mansis30/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/mansis30/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
@@ -384,6 +385,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/mansis30/Leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mansis30/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/mansis30/Leetcode/tree/master/2418-sort-the-people) |
+| [2578-split-with-minimum-sum](https://github.com/mansis30/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2784-check-if-array-is-good](https://github.com/mansis30/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/mansis30/Leetcode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mansis30/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -562,6 +564,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mansis30/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/mansis30/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mansis30/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2578-split-with-minimum-sum](https://github.com/mansis30/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mansis30/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mansis30/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Geometry
