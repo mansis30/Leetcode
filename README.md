@@ -257,6 +257,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1710-maximum-units-on-a-truck](https://github.com/mansis30/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/mansis30/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/mansis30/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mansis30/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mansis30/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mansis30/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mansis30/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -381,6 +382,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1636-sort-array-by-increasing-frequency](https://github.com/mansis30/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/mansis30/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1859-sorting-the-sentence](https://github.com/mansis30/Leetcode/tree/master/1859-sorting-the-sentence) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mansis30/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mansis30/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mansis30/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mansis30/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -587,6 +589,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0643-maximum-average-subarray-i](https://github.com/mansis30/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1763-longest-nice-substring](https://github.com/mansis30/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1871-jump-game-vii](https://github.com/mansis30/Leetcode/tree/master/1871-jump-game-vii) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mansis30/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2762-continuous-subarrays](https://github.com/mansis30/Leetcode/tree/master/2762-continuous-subarrays) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/mansis30/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Stack
