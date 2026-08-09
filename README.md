@@ -67,6 +67,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0205-isomorphic-strings](https://github.com/mansis30/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/mansis30/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/mansis30/Leetcode/tree/master/0290-word-pattern) |
+| [0332-reconstruct-itinerary](https://github.com/mansis30/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mansis30/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/mansis30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/mansis30/Leetcode/tree/master/0392-is-subsequence) |
@@ -191,6 +192,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0239-sliding-window-maximum](https://github.com/mansis30/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/mansis30/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0332-reconstruct-itinerary](https://github.com/mansis30/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/mansis30/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mansis30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/mansis30/Leetcode/tree/master/0414-third-maximum-number) |
@@ -302,6 +304,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0079-word-search](https://github.com/mansis30/Leetcode/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/mansis30/Leetcode/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/mansis30/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0332-reconstruct-itinerary](https://github.com/mansis30/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0341-flatten-nested-list-iterator](https://github.com/mansis30/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [1306-jump-game-iii](https://github.com/mansis30/Leetcode/tree/master/1306-jump-game-iii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mansis30/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -356,6 +359,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0229-majority-element-ii](https://github.com/mansis30/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/mansis30/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/mansis30/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/mansis30/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mansis30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/mansis30/Leetcode/tree/master/0414-third-maximum-number) |
@@ -684,6 +688,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0023-merge-k-sorted-lists](https://github.com/mansis30/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/mansis30/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/mansis30/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/mansis30/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mansis30/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/mansis30/Leetcode/tree/master/0506-relative-ranks) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mansis30/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -831,4 +836,20 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [2094-finding-3-digit-even-numbers](https://github.com/mansis30/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mansis30/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mansis30/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Graph Theory
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/mansis30/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/mansis30/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/mansis30/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/mansis30/Leetcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
