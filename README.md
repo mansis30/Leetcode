@@ -147,6 +147,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1030-matrix-cells-in-distance-order](https://github.com/mansis30/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mansis30/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/mansis30/Leetcode/tree/master/1103-distribute-candies-to-people) |
+| [1140-stone-game-ii](https://github.com/mansis30/Leetcode/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/mansis30/Leetcode/tree/master/1154-day-of-the-year) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mansis30/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/mansis30/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -239,6 +240,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1051-height-checker](https://github.com/mansis30/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/mansis30/Leetcode/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/mansis30/Leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1140-stone-game-ii](https://github.com/mansis30/Leetcode/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mansis30/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1306-jump-game-iii](https://github.com/mansis30/Leetcode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/mansis30/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -441,6 +443,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0392-is-subsequence](https://github.com/mansis30/Leetcode/tree/master/0392-is-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mansis30/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mansis30/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1140-stone-game-ii](https://github.com/mansis30/Leetcode/tree/master/1140-stone-game-ii) |
 | [1340-jump-game-v](https://github.com/mansis30/Leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/mansis30/Leetcode/tree/master/1871-jump-game-vii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mansis30/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -819,6 +822,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0238-product-of-array-except-self](https://github.com/mansis30/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/mansis30/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/mansis30/Leetcode/tree/master/0724-find-pivot-index) |
+| [1140-stone-game-ii](https://github.com/mansis30/Leetcode/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/mansis30/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/mansis30/Leetcode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/mansis30/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -852,4 +856,16 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/mansis30/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/mansis30/Leetcode/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/mansis30/Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/mansis30/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
