@@ -187,6 +187,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0149-max-points-on-a-line](https://github.com/mansis30/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mansis30/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mansis30/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0164-maximum-gap](https://github.com/mansis30/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mansis30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/mansis30/Leetcode/tree/master/0220-contains-duplicate-iii) |
@@ -360,6 +361,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | ------- |
 | [0056-merge-intervals](https://github.com/mansis30/Leetcode/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/mansis30/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0164-maximum-gap](https://github.com/mansis30/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mansis30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/mansis30/Leetcode/tree/master/0220-contains-duplicate-iii) |
@@ -710,6 +712,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/mansis30/Leetcode/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/mansis30/Leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Ordered Set
 |  |
@@ -892,4 +895,12 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/mansis30/Leetcode/tree/master/1510-stone-game-iv) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/mansis30/Leetcode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/mansis30/Leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
