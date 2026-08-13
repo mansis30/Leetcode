@@ -113,6 +113,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1903-largest-odd-number-in-string](https://github.com/mansis30/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mansis30/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/mansis30/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/mansis30/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2418-sort-the-people](https://github.com/mansis30/Leetcode/tree/master/2418-sort-the-people) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mansis30/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/mansis30/Leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -274,6 +275,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mansis30/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mansis30/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mansis30/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/mansis30/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mansis30/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/mansis30/Leetcode/tree/master/2418-sort-the-people) |
 | [2574-left-and-right-sum-differences](https://github.com/mansis30/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -713,6 +715,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/mansis30/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/mansis30/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2762-continuous-subarrays](https://github.com/mansis30/Leetcode/tree/master/2762-continuous-subarrays) |
 ## Design
 |  |
@@ -842,6 +845,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/mansis30/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/mansis30/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/mansis30/Leetcode/tree/master/3161-block-placement-queries) |
 ## Enumeration
 |  |
