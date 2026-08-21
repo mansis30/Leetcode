@@ -156,6 +156,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1512-number-of-good-pairs](https://github.com/mansis30/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/mansis30/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2578-split-with-minimum-sum](https://github.com/mansis30/Leetcode/tree/master/2578-split-with-minimum-sum) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mansis30/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mansis30/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mansis30/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mansis30/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -290,6 +291,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mansis30/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mansis30/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-longest-common-suffix-queries](https://github.com/mansis30/Leetcode/tree/master/3093-longest-common-suffix-queries) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mansis30/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/mansis30/Leetcode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mansis30/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mansis30/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -438,6 +440,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mansis30/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/mansis30/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1763-longest-nice-substring](https://github.com/mansis30/Leetcode/tree/master/1763-longest-nice-substring) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mansis30/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mansis30/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
@@ -498,6 +501,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1346-check-if-n-and-its-double-exist](https://github.com/mansis30/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mansis30/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mansis30/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mansis30/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/mansis30/Leetcode/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mansis30/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mansis30/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -829,6 +833,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mansis30/Leetcode/tree/master/0258-add-digits) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mansis30/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mansis30/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/mansis30/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Recursion
@@ -916,4 +921,8 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/mansis30/Leetcode/tree/master/0164-maximum-gap) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mansis30/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
