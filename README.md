@@ -111,6 +111,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1859-sorting-the-sentence](https://github.com/mansis30/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1871-jump-game-vii](https://github.com/mansis30/Leetcode/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/mansis30/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/mansis30/Leetcode/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mansis30/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/mansis30/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mansis30/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -155,6 +156,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1510-stone-game-iv](https://github.com/mansis30/Leetcode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/mansis30/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/mansis30/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/mansis30/Leetcode/tree/master/1927-sum-game) |
 | [2578-split-with-minimum-sum](https://github.com/mansis30/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mansis30/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mansis30/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -607,6 +609,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/mansis30/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1710-maximum-units-on-a-truck](https://github.com/mansis30/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/mansis30/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/mansis30/Leetcode/tree/master/1927-sum-game) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mansis30/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/mansis30/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mansis30/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -900,6 +903,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | ------- |
 | [1140-stone-game-ii](https://github.com/mansis30/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mansis30/Leetcode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/mansis30/Leetcode/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
