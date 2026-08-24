@@ -155,6 +155,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1344-angle-between-hands-of-a-clock](https://github.com/mansis30/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1510-stone-game-iv](https://github.com/mansis30/Leetcode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/mansis30/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1872-stone-game-viii](https://github.com/mansis30/Leetcode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/mansis30/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/mansis30/Leetcode/tree/master/1927-sum-game) |
 | [2578-split-with-minimum-sum](https://github.com/mansis30/Leetcode/tree/master/2578-split-with-minimum-sum) |
@@ -272,6 +273,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1710-maximum-units-on-a-truck](https://github.com/mansis30/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/mansis30/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/mansis30/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1872-stone-game-viii](https://github.com/mansis30/Leetcode/tree/master/1872-stone-game-viii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mansis30/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mansis30/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mansis30/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -467,6 +469,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1340-jump-game-v](https://github.com/mansis30/Leetcode/tree/master/1340-jump-game-v) |
 | [1510-stone-game-iv](https://github.com/mansis30/Leetcode/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/mansis30/Leetcode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/mansis30/Leetcode/tree/master/1872-stone-game-viii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mansis30/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Divide and Conquer
 |  |
@@ -859,6 +862,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1140-stone-game-ii](https://github.com/mansis30/Leetcode/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/mansis30/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/mansis30/Leetcode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/mansis30/Leetcode/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/mansis30/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Indexed Tree
 |  |
@@ -898,17 +902,20 @@ Please note that the solutions in this repository reflect my approach at the tim
 | ------- |
 | [1140-stone-game-ii](https://github.com/mansis30/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mansis30/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mansis30/Leetcode/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mansis30/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mansis30/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mansis30/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mansis30/Leetcode/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mansis30/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mansis30/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mansis30/Leetcode/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
