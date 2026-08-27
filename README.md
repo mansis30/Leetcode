@@ -122,6 +122,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [3120-count-the-number-of-special-characters-i](https://github.com/mansis30/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mansis30/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mansis30/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mansis30/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3838-weighted-word-mapping](https://github.com/mansis30/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
@@ -576,6 +577,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [3120-count-the-number-of-special-characters-i](https://github.com/mansis30/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mansis30/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mansis30/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mansis30/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/mansis30/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -595,6 +597,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [1748-sum-of-unique-elements](https://github.com/mansis30/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mansis30/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mansis30/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mansis30/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -620,6 +623,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mansis30/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mansis30/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mansis30/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mansis30/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Geometry
 |  |
 | ------- |
@@ -880,6 +884,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/mansis30/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mansis30/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mansis30/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mansis30/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Graph Theory
 |  |
