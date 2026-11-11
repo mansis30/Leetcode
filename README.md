@@ -75,6 +75,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0409-longest-palindrome](https://github.com/mansis30/Leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/mansis30/Leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/mansis30/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0500-keyboard-row](https://github.com/mansis30/Leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/mansis30/Leetcode/tree/master/0504-base-7) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/mansis30/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/mansis30/Leetcode/tree/master/0541-reverse-string-ii) |
@@ -213,6 +214,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mansis30/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/mansis30/Leetcode/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/mansis30/Leetcode/tree/master/0495-teemo-attacking) |
+| [0500-keyboard-row](https://github.com/mansis30/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/mansis30/Leetcode/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/mansis30/Leetcode/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/mansis30/Leetcode/tree/master/0561-array-partition) |
@@ -545,6 +547,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0442-find-all-duplicates-in-an-array](https://github.com/mansis30/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/mansis30/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mansis30/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/mansis30/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/mansis30/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mansis30/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/mansis30/Leetcode/tree/master/0645-set-mismatch) |
