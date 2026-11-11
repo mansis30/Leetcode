@@ -135,6 +135,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0149-max-points-on-a-line](https://github.com/mansis30/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/mansis30/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/mansis30/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/mansis30/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/mansis30/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mansis30/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mansis30/Leetcode/tree/master/0268-missing-number) |
@@ -344,6 +345,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0125-valid-palindrome](https://github.com/mansis30/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mansis30/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mansis30/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/mansis30/Leetcode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/mansis30/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mansis30/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mansis30/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -531,6 +533,7 @@ Please note that the solutions in this repository reflect my approach at the tim
 | [0149-max-points-on-a-line](https://github.com/mansis30/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mansis30/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/mansis30/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/mansis30/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/mansis30/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/mansis30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mansis30/Leetcode/tree/master/0229-majority-element-ii) |
@@ -941,4 +944,8 @@ Please note that the solutions in this repository reflect my approach at the tim
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mansis30/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mansis30/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
